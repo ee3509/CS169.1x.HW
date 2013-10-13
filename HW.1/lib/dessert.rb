@@ -1,4 +1,5 @@
 class Dessert
+  attr_accesor 
   def initialize(name, calories)
     # your code here
   end
